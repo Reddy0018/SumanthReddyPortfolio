@@ -47,6 +47,12 @@ const Contact = () => {
                     <h2 className="text-2xl text-teal-500 font-bold mb-2 sm:text-3xl">Email</h2>
                     <h3 className="text-md text-gray-400 sm:text-xl">sumanthr4179@gmail.com</h3>
                 </div>
+                <div>
+                </div>
+                <div className="mt-10 sm:mt-0">
+                    <h2 className="text-2xl text-teal-500 font-bold mb-2 sm:text-3xl">Mobile</h2>
+                    <h3 className="text-md text-gray-400 sm:text-xl">+1 (216) 457-1192</h3>
+                </div>
             </div>
         </div>
     );
