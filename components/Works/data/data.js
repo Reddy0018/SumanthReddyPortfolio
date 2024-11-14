@@ -4,7 +4,7 @@ const data = [
         image_url: "https://cdn.dribbble.com/userupload/17554398/file/original-3c5dce8af48640f02495ad93200d74ef.png?resize=640x480&vertical=center",
         work_title: "Java XML Parser",
         description: "Developed a Java-based XML parser backend application with REST capabilities, using Java 17 to efficiently transform and integrate complex XML data into PostgreSQL databases, improving data management and accessibility. •	Implemented Spring MVC to build a robust framework for RESTful web services, facilitating seamless data manipulation and integration within database tables. Utilized IntelliJ IDE for a high-quality development environment and validation of REST APIs with Postman, demonstrating strong skills in backend development and data integration.",
-        genre: "Dev"
+        genre: "Dev & Automation"
     },
     {
         id: 2,
