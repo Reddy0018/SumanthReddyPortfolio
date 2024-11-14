@@ -42,7 +42,7 @@ const Footer = () => {
                         </a>
                     </li>
                     <li className="text-gray-400 text-sm" title="Contact">
-                        <a href="#ontact" className="font-bold ease-in-out duration-150 hover:text-white">
+                        <a href="#contact" className="font-bold ease-in-out duration-150 hover:text-white">
                             Contact
                         </a>
                     </li>
