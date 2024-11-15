@@ -8,6 +8,7 @@ import Works from '../components/Works';
 import Contact from '../components/Contact';
 import Footer from '../components/Footer';
 import Skills from '../components/Skills/Skills';
+// import Education from '../components/Education/Education';
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
       <div className="max-w-7xl m-auto">
         <Navbar />
         <Hero />
+        {/* <Education /> */}
         <Experiences />
         <Skills />
         <Works />
