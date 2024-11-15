@@ -30,6 +30,11 @@ const Navbar = () => {
                             Experiences
                         </a>
                     </li>
+                    <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Contact">
+                        <a href="#skills" className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400" onClick={() => closeMenu()}>
+                            skills
+                        </a>
+                    </li>
                     <li className="mb-4 mx-0 sm:mb-0 sm:mx-3" title="Projects">
                         <a href="#projects" className="text-1xs text-white font-semibold ease-in-out duration-150 hover:text-teal-400" onClick={() => closeMenu()}>
                             Projects

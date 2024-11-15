@@ -31,6 +31,11 @@ const Footer = () => {
 
             <div className="py-8 flex flex-col gap-4 justify-between items-center max-w-6xl m-auto sm:flex-row sm:gap-0">
                 <ul className="flex justify-center items-center gap-4">
+                <li className="text-gray-400 text-sm" title="Experiences">
+                        <a href="#skills" className="font-bold ease-in-out duration-150 hover:text-white">
+                            Skills
+                        </a>
+                    </li>
                     <li className="text-gray-400 text-sm" title="Experiences">
                         <a href="#experiences" className="font-bold ease-in-out duration-150 hover:text-white">
                             Experiences
