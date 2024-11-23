@@ -17,7 +17,7 @@ const Skills = () => {
         </div>
         <div className="flex flex-col items-center">
           <FaPython className="text-6xl text-gray-300 mb-2" />
-          <span className="text-gray-300 text-md">Pythont</span>
+          <span className="text-gray-300 text-md">Python</span>
         </div>
         <div className="flex flex-col items-center">
           <FaJs className="text-6xl text-gray-300 mb-2" />
