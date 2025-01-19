@@ -19,6 +19,13 @@ const data = [
         job_title: "Library Student Assistant (Part Time)",
         company: "Case Western Reserve University",
         description: "In this role, I engaged with the public by answering questions, guiding patrons to resources, and creating a welcoming atmosphere. I organized and maintained library materials, ensuring they were in good order and condition. I assisted patrons with computing, printing, and scanning needs, and applied library policies to ensure a consistent user experience. I took initiative in reporting issues and handling various tasks, demonstrating reliability by maintaining a consistent work schedule and adapting to new tasks as needed."
+    },
+    {
+        id: 3,
+        year: "Jan 2025 - May 2025",
+        job_title: "Teaching Assistant (Part Time)",
+        company: "Case Western Reserve University",
+        description: "As a Teaching Assistant, I assisted in teaching the fundamentals of programming logic using Python, facilitating students' understanding of variables, operators, string manipulation, loops, functions, and basic array manipulation. I supported the development of algorithmic thinking to solve common business and decision problems using Python programming. Additionally, I guided students through the process of problem research, scope definition, architecture, and design of potential solutions in a Python environment. I aided in the preparation and execution of group projects, culminating in a joint white paper submission and presentation of implemented Python code. My role also involved providing technical support for installing Python and troubleshooting programming issues, ensuring all students had access to necessary computing resources. I engaged students with no prior programming experience, enhancing their basic computer skills and confidence in using programming tools."
     }
 ];
 
