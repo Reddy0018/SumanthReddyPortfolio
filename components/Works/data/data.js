@@ -38,6 +38,14 @@ const data = [
         description: "Developed an innovative web-based educational counseling platform, leveraging HTML and JavaScript to guide students through their educational journey post high school. This interactive platform serves as a comprehensive resource for exploring schools, colleges, and universities available after completing XI and XII standards. It features an extensive database of undergraduate and postgraduate courses offered by selected institutions, enabling users to make informed decisions about their academic futures. This project underscored my ability to develop and deploy web-based solutions that address specific user needs.",
         genre: "Design & Dev",
         code_url:"https://github.com/Reddy0018/Education-Counselling-Website"
+    },
+    {
+        id: 6,
+        image_url: "https://cdn.dribbble.com/userupload/36533978/file/original-ee612bb841f3b11a89786c752561e39b.png?resize=752x&vertical=center",
+        work_title: "Resume & Portfolio Description for ATS Optimization",
+        description: "Developed a full-stack AI-powered web application using Spring Boot (Java) for the backend and React.js for the frontend, integrating OpenAI, Azure AI, and GitHub APIs for recipe generation, chatbot responses, and image creation. Built RESTful APIs, implemented CORS policies, and secured API endpoints for seamless interaction. Deployed the backend on Render and the frontend on Vercel, ensuring scalability. This project showcases expertise in full-stack development, AI integration, API design, and cloud deployment. Git hub code: https://github.com/Reddy0018/AI",
+        genre: "Artificial Intelligence & Dev",
+        code_url:"https://sumanth-reddy-portfolio-cir7-er0rm1i8x-reddy0018s-projects.vercel.app/"
     }
     // {
     //     id: 6,
