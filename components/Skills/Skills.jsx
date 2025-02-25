@@ -2,7 +2,7 @@ import React from 'react';
 
 // Importing icons from react-icons
 import { FaJava, FaPython, FaJs, FaGit } from 'react-icons/fa';
-import { SiSpringboot, SiApachekafka, SiJenkins, SiApachemaven, SiPostgresql, SiNeo4J, SiSpringsecurity, SiMysql } from 'react-icons/si';
+import { SiSpringboot, SiApachekafka, SiJenkins, SiApachemaven, SiPostgresql, SiNeo4J, SiSpringsecurity, SiMysql, SiOpenai, SiSpring, SiIntellijidea } from 'react-icons/si';
 
 const Skills = () => {
   return (
@@ -59,6 +59,19 @@ const Skills = () => {
           <FaGit className="text-6xl text-gray-300 mb-2" />
           <span className="text-gray-300 text-md">Git</span>
         </div>
+        <div className="flex flex-col items-center">
+          <SiOpenai className="text-6xl text-gray-300 mb-2" />
+          <span className="text-gray-300 text-md">Spring AI</span>
+        </div>
+        <div className="flex flex-col items-center">
+          <SiSpring className="text-6xl text-gray-300 mb-2" />
+          <span className="text-gray-300 text-md">Spring</span>
+        </div>
+        <div className="flex flex-col items-center">
+          <SiIntellijidea className="text-6xl text-gray-300 mb-2" />
+          <span className="text-gray-300 text-md">IntelliJ IDEA</span>
+        </div>
+
         {/* Add more skills as needed */}
       </div>
     </div>
