@@ -26,6 +26,13 @@ const data = [
         job_title: "Teaching Assistant (Part Time)",
         company: "Case Western Reserve University",
         description: "As a Teaching Assistant, I assisted in teaching the fundamentals of programming logic using Python, facilitating students' understanding of variables, operators, string manipulation, loops, functions, and basic array manipulation. I supported the development of algorithmic thinking to solve common business and decision problems using Python programming. Additionally, I guided students through the process of problem research, scope definition, architecture, and design of potential solutions in a Python environment. I aided in the preparation and execution of group projects, culminating in a joint white paper submission and presentation of implemented Python code. My role also involved providing technical support for installing Python and troubleshooting programming issues, ensuring all students had access to necessary computing resources. I engaged students with no prior programming experience, enhancing their basic computer skills and confidence in using programming tools."
+    },
+    {
+        id: 4,
+        year: "Jan 2025 - Apr 2025",
+        job_title: "Graduate Research Assistant",
+        company: "XLab - Case Western Reserve University",
+        description: "As a Research Assistant at CWRU XLab, I developed a privacy-preserving architecture for secure data sharing in healthcare using federated learning. I implemented a data plug to extract data from external vendors such as Spotify, Reddit, YouTube, and Google, enabling local computation while ensuring data privacy and security. Additionally, I integrated data encryption techniques to enhance security in decentralized machine learning models. My research focused on identifying privacy risks and developing mitigation strategies for AI-driven healthcare applications. Collaborating with a multidisciplinary team, I contributed to designing scalable, privacy-compliant AI solutions. I also authored technical documentation and research findings for publication and internal use, ensuring knowledge transfer and continuous improvement."
     }
 ];
 
