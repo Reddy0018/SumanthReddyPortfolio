@@ -46,6 +46,14 @@ const data = [
         description: "Developed a full-stack AI-powered web application using Spring Boot (Java) for the backend and React.js for the frontend, integrating OpenAI, Azure AI, and GitHub APIs for recipe generation, chatbot responses, and image creation. Built RESTful APIs, implemented CORS policies, and secured API endpoints for seamless interaction. Deployed the backend on Render and the frontend on Vercel, ensuring scalability. This project showcases expertise in full-stack development, AI integration, API design, and cloud deployment. Git hub code: https://github.com/Reddy0018/AI",
         genre: "Artificial Intelligence & Dev",
         code_url:"https://sumanth-reddy-portfolio-cir7-er0rm1i8x-reddy0018s-projects.vercel.app/"
+    },
+    {
+        id: 7,
+        image_url: "https://cdn.dribbble.com/userupload/37421554/file/original-91644fe5cb7f8cbe71b19cc37d964cef.png?resize=752x&vertical=center",
+        work_title: "Data Plug",
+        description: "As a Research Assistant at CWRU XLab, I designed and implemented core ETL functionalities for efficient data extraction, transformation, and loading. I developed a data plug to extract information from external vendors such as Spotify, Reddit, YouTube, and Google, enabling local computation using federated learning. To facilitate seamless data integration, I built RESTful APIs using Spring Boot and leveraged Apache Spark for large-scale data processing and analytics. I also implemented unit and integration tests to ensure code quality and reliability. By optimizing ETL workflows, I improved data processing efficiency by 30%. Additionally, I collaborated with cross-functional teams to gather requirements and deliver scalable data-driven solutions.",
+        genre: "Data Extraction & Dev",
+        code_url:"https://github.com/Reddy0018/dataPlug"
     }
     // {
     //     id: 6,
