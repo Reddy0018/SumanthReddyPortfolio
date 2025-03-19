@@ -45,7 +45,7 @@ const data = [
         work_title: "AI-Powered Recipe and Chatbot App",
         description: "Developed a full-stack AI-powered web application using Spring Boot (Java) for the backend and React.js for the frontend, integrating OpenAI, Azure AI, and GitHub APIs for recipe generation, chatbot responses, and image creation. Built RESTful APIs, implemented CORS policies, and secured API endpoints for seamless interaction. Deployed the backend on Render and the frontend on Vercel, ensuring scalability. This project showcases expertise in full-stack development, AI integration, API design, and cloud deployment. Git hub code: https://github.com/Reddy0018/AI",
         genre: "Artificial Intelligence & Dev",
-        code_url:"https://sumanth-reddy-portfolio-cir7-er0rm1i8x-reddy0018s-projects.vercel.app/"
+        code_url:"https://sumanth-reddy-portfolio-cir7.vercel.app/"
     },
     {
         id: 7,
