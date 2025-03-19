@@ -41,7 +41,7 @@ const data = [
     },
     {
         id: 6,
-        image_url: "https://cdn.dribbble.com/userupload/36533978/file/original-ee612bb841f3b11a89786c752561e39b.png?resize=752x&vertical=center",
+        image_url: "https://cdn.dribbble.com/userupload/42562815/file/original-0cc92cdc6c72b534a781a62f41ab8470.png?resize=752x&vertical=center",
         work_title: "AI-Powered Recipe and Chatbot App",
         description: "Developed a full-stack AI-powered web application using Spring Boot (Java) for the backend and React.js for the frontend, integrating OpenAI, Azure AI, and GitHub APIs for recipe generation, chatbot responses, and image creation. Built RESTful APIs, implemented CORS policies, and secured API endpoints for seamless interaction. Deployed the backend on Render and the frontend on Vercel, ensuring scalability. This project showcases expertise in full-stack development, AI integration, API design, and cloud deployment. Git hub code: https://github.com/Reddy0018/AI",
         genre: "Artificial Intelligence & Dev",
